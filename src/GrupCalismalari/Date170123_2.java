@@ -24,10 +24,3 @@ public class Date170123_2 {
     }
 }
 
-echo "# SampleQuestions" >> README.md
-        git init
-        git add README.md
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/esraunal07/SampleQuestions.git
-        git push -u origin main
